@@ -1,0 +1,42 @@
+body
+{
+    background: khaki;
+}
+
+p
+{
+    font-size: 1.2em;
+    margin-left: 2em;
+    font-weight: 650;
+}
+
+.subtitulo
+{
+    color: darkred;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.title
+{
+    color: mediumpurple;
+    margin-top: 2em;
+    text-align: center;
+}
+
+#form
+{
+    margin: 0 auto;
+    margin-top: 8.5em;
+    margin-left: 2em;
+}
+
+#boton
+{
+    text-align: center;
+}
+
+.btnespecial
+{
+    text-align: center;
+}
